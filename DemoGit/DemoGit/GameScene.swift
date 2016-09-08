@@ -11,6 +11,7 @@ import SpriteKit
 class GameScene: SKScene {
     override func didMoveToView(view: SKView) {
         //1 Add plane
+        print("Git Demo")
     }
     
     override func touchesBegan(touches: Set<UITouch>, withEvent event: UIEvent?) {
